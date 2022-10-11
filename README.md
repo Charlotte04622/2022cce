@@ -1,7 +1,7 @@
 # 2022cce
 # week06
 
-1.2層迴圈
+# 2層迴圈
 #include <stdio.h>
 int main()
 {
@@ -13,7 +13,7 @@ int main()
     }
 }
 
-2.畫出星星
+# 畫出星星
 #include <stdio.h>
 int main()
 {
@@ -25,7 +25,7 @@ int main()
     }
 }
 
-3.最大公因數
+# 最大公因數
 #include <stdio.h>
 int main()
 {
@@ -41,7 +41,7 @@ int main()
     printf("ans: %d 可約分", ans);
 }
 
-4.輾轉相除法
+# 輾轉相除法
 #include <stdio.h>
 int main()
 {
